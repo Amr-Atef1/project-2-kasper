@@ -1159,6 +1159,7 @@
   }
   footer .icons i {
     padding: 10px 15px;
+    cursor:pointer;
 }
 footer .copy {
     margin-top: 60px;
